@@ -1,6 +1,6 @@
 # Day-1-of-100
 
-Here is your challenge for Day 1
+👉 Day 1 Challenge
 Project 1: Print into the World
 Let's get started with your first project! After only one day, you already have something you can share with the world.
 
